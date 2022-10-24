@@ -1,23 +1,24 @@
 body {
-	background: #CCCCCC
-}
-
-#banner {
-	width: 100%;
-}
-
-h1 {
-	text-align: center
-}
-
-p {
+	background-color: aqua;
 	text-align: center;
 }
 
-#missao {
-	font-size: 20px
+h1{
+	font-size: 30px;
+	color: black;
 }
 
+p {
+	color: black;
+	font-size: 25px;
+}
+#imagem1{
+	width: 100%;
+	border: 2px solid black;
+	height: 20%;
+}
+
+iet
 em strong {
 	color: #FF0000;
 }
