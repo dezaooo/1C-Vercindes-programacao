@@ -22,3 +22,16 @@ iet
 em strong {
 	color: #FF0000;
 }
+beneficios{
+	background-color: chocolate;
+	text-align: left;
+	font-size:20%;
+	}
+	
+	ul{
+	display: inline-block;
+	vertical-align: top;
+	margin: 3%;
+	list-style: circle;
+	width: 20%;
+	margin-right: 15%;
